@@ -2,7 +2,7 @@
 
 Joanna Power  
 March 2016  
-[slides](better-python_unit-tests_5min.pdf)
+[Presentation slides](better-python_unit-tests_5min.pdf)
 
 
 ### Intro
