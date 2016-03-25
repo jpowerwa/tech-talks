@@ -1,2 +1,4 @@
-# tech-talks
-slides and notes from tech talks
+# Tech talks
+
+Repo for slides and notes from tech talks. 
+
