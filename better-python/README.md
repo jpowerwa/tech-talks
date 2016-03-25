@@ -5,8 +5,7 @@ Short talks explaining features of the Python language.
 ####Write Better Python: Unit Tests
 Lightning talk covering what, why and how of basic python unit testing.  
 PyLadies 24 March 2016  
-[Presentation slides](better-python_unit-tests_5min.pdf)  
-[Speaker notes](better-python_unit-tests_5min.md)
+[Notes and link to slides](better-python_unit-tests_5min.md)  
 
 
 
