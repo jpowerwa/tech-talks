@@ -1,0 +1,51 @@
+1. Write Better Python: Lambda Expressions
+
+My name is Joanna Power. 
+I am a software architect and engineer, and I've been programming in Python for the past eight years or so. 
+I am going to talk about lambda expressions in Python.
+This presentation will be available online after tonight, so don't worry about taking notes.
+
+
+2. What are they?
+
+Lambda expressions are anonymous functions that evaulate a single expression.
+They are a little strange looking, but really very simple.
+Called lambda because they are a little bit like lambda expressions in LISP. 
+Introduced into Python along with map and filter early on by someone who missed LISP.
+A little bit of functional seasoning on top of Python.
+
+
+3. What aren't they?
+
+Not suitable for complicated logic.
+Not for logic that needs to be called from multiple places.
+If it needs a comment, or even a name, it should not be in a lambda.
+
+
+4. How do I write one?
+
+Lambda keyword.
+Parameters.
+Single expression to be evaluated.
+No return statement.
+
+
+5. How do I use one?
+
+Commonly used with map and filter.
+Also commonly used with sort to specify a sort key for an object.
+Useful in UI programming to bind functionality to a user action; i.e. when the value of an attribute of a UI control needs to be a function.
+
+
+6. How do I avoid them?
+
+List comprehensions.
+Normal functions, often functions defined locally.
+
+
+GOTO notebook.
+
+
+7. Recap
+
+
