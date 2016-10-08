@@ -9,7 +9,9 @@ This presentation will be available online after tonight, so don't worry about t
 2. What are they?
 
 Lambda expressions are anonymous functions that evaulate a single expression.
+Package up small bit of functionality to be applied to various sets of parameters at the appropriate time.
 They are a little strange looking, but really very simple.
+
 Called lambda because they are a little bit like lambda expressions in LISP. 
 Introduced into Python along with map and filter early on by someone who missed LISP.
 A little bit of functional seasoning on top of Python.
@@ -33,6 +35,7 @@ No return statement.
 5. How do I use one?
 
 Commonly used with map and filter.
+Similarly, used with apply in data analysis.
 Also commonly used with sort to specify a sort key for an object.
 Useful in UI programming to bind functionality to a user action; i.e. when the value of an attribute of a UI control needs to be a function.
 
