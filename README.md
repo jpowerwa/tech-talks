@@ -6,5 +6,5 @@ Repo for slides and notes from tech talks.
 
 [Giving Your Technical Vision a Voice](act-w-2016/giving_your_technical_vision_a_voice.pdf): ACT-W (201609)
 
-[Better Python tech talks](better-python/README.md): PyLadies meetups (201607)
+[Better Python](better-python/README.md): PyLadies meetup (201607)
 
